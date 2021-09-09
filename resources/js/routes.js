@@ -1,0 +1,6 @@
+const Routes = [
+    {
+        path: "/",
+        components: 
+    }
+] 
